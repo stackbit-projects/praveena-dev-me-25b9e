@@ -14,7 +14,7 @@
                 "label": "Home",
                 "url": "/",
                 "style": "link",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "About",
